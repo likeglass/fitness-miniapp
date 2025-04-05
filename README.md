@@ -1,8 +1,6 @@
 # fitness-miniapp
 import os
 from pathlib import Path
-
-# Сохраняем HTML-файл для мини-приложения
 html_code = """<!DOCTYPE html>
 <html>
 <head>
